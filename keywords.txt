@@ -1,0 +1,4 @@
+Polyline   KEYWORD1
+encodePolylinePoint KEYWORD2
+encodePolylineVal KEYWORD2
+testAlgorithm KEYWORD2
