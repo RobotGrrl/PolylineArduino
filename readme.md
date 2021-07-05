@@ -32,24 +32,24 @@ String s = mypolyline.encodePolylineVal(100.0);
 
 **Expected output:**
 
-		Encoded polyline for point (100.00,100.00) = _gjaR_gjaR
+	Encoded polyline for point (100.00,100.00) = _gjaR_gjaR
 
 
 ### PolylineTest
 
 **Expected output:**
 
-		Test results: 
-		(result) - (expected)
-		`~oia@ - `~oia@
-		_p~iF - _p~iF
-		~ps|U - ~ps|U
-		_ulL - _ulL
-		nnqC - nnqC
-		_mqN - _mqN
-		vxq`@ - vxq`@
-		PASS: 7 FAIL: 0
-		TEST SUCCESS
+	Test results: 
+	(result) - (expected)
+	`~oia@ - `~oia@
+	_p~iF - _p~iF
+	~ps|U - ~ps|U
+	_ulL - _ulL
+	nnqC - nnqC
+	_mqN - _mqN
+	vxq`@ - vxq`@
+	PASS: 7 FAIL: 0
+	TEST SUCCESS
 
 
 ## Debug
@@ -67,6 +67,4 @@ Feel free to open a Github issue if there's anything broken.
 
 The Polyline encoding algorithm is by Google.
 
-This library was developed thanks to a learning project at the Bayview Yards Prototyping Lab.
-
-
+This library was developed thanks to a learning project at the [Bayview Yards Prototyping Lab](https://bayviewyards.org/prototyping-lab-2/).
